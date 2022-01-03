@@ -8,7 +8,6 @@
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /SuperStar/"
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"

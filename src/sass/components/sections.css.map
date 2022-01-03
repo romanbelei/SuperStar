@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACP,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;CASrB;;AARC,MAAM,EAAE,SAAS,EAAE,KAAK;EAH1B,AAAA,QAAQ,CAAC;IAIL,WAAW,EAAE,IAAI;IACjB,cAAc,EAAE,IAAI;GAMvB;;;AAJC,MAAM,EAAE,SAAS,EAAE,MAAM;EAP3B,AAAA,QAAQ,CAAC;IAQL,WAAW,EAAE,IAAI;IACjB,cAAc,EAAE,IAAI;GAEvB",
-    "sources": [
-        "sections.scss"
-    ],
-    "names": [],
-    "file": "sections.css"
-}
